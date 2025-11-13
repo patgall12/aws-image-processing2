@@ -2,7 +2,7 @@
 name = "resize-lambda"
 version = "0.1.0"
 description = "Lambda function to resize images"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     # Add your dependencies here
     # Example: "pillow>=10.0.0"
