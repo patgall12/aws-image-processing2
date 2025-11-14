@@ -10,10 +10,11 @@
         "s3:List*"
       ],
       "Resource": [
-        "arn:aws:s3:::my-image-pipeline-patgall",
-        "arn:aws:s3:::my-image-pipeline-patgall/*"
+        "arn:aws:s3:::sgg56-assignment3",
+        "arn:aws:s3:::sgg56-assignment3/*"
       ]
     }
   ]
 }
+
 
